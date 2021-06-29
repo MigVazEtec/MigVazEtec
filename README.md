@@ -1,4 +1,4 @@
-*italicized text* Hi there 👋 
+  *Hi there 👋*
 - 🔭 I’m currently working on Etec Antônio Devisate 
 - 🌱 I’m currently learning Desenvolvimento de Sistemas
 - 💬 Ask me about informática
